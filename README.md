@@ -8,5 +8,5 @@ These options can result in styling conflicts as CSS classes are globally scoped
 * Using CSS Modules.<br/>
 These options are better because the styling is component specific.<br/>
 
-I personally prefer the CSS modules approach because it keeps the CSS files and Javascript files seperated resulting in a more 
+I personally prefer the CSS modules approach because it keeps the CSS files and Javascript files separated resulting in a more 
 organized approach.
